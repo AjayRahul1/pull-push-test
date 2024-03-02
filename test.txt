@@ -5,4 +5,4 @@ fourth line
 5th line from develop local -> dev remote
 6. sixth line is being added for testing main branch locked for pushing
 7. above line commit did not stop bcz I did not check another box that say "Do not allow bypass any above settings."
-
+8. only pull request merging condition checked. Removed read-only branch checkbox.
